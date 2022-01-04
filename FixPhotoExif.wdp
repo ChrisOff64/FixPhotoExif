@@ -1,0 +1,108 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FixPhotoExif
+ major_version : 26
+ minor_version : 0
+ type : 4097
+ description : ***REMOVED***
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Exécutable Windows 32 bits
+    internal_properties : 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
+    configuration_id : 1834570764885518674
+    type : 1
+    generation_name : FixPhotoExif.exe
+    version :
+     major_version : 1
+     internal_generation_version : 1
+    language : 4
+ elements :
+  identifier : 0x41d4b65f00d8a202
+  elements :
+   -
+     name : FEN_Main
+     identifier : 0x41d4b6e600e2b0ae
+     internal_properties : BgAAAAYAAACOlOY6Cbb+MTdYRn4PPEezuuuxmRUrbmxCLiBxTLVnoaur4930DGoUWME7hQ3DvzGbmw==
+     physical_name : .\FEN_Main.wdw
+     type : 2
+   -
+     name : FEN_NewDatetime
+     identifier : 0x41d4b6e600edb10b
+     internal_properties : BgAAAAYAAABVMb3h3rvzLDA1A7vExH8vs+zeHp7cmuRKKJafgGG9S6knhqs3wSVRhb44gADwiHhAwA==
+     physical_name : .\FEN_NewDatetime.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - en-US
+ code_elements :
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      // MIT License
+      // 
+      // Copyright (c) 2022 Alexandre Leclerc
+      // 
+      // Permission is hereby granted, free of charge, to any person obtaining a copy
+      // of this software and associated documentation files (the "Software"), to deal
+      // in the Software without restriction, including without limitation the rights
+      // to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+      // copies of the Software, and to permit persons to whom the Software is
+      // furnished to do so, subject to the following conditions:
+      // 
+      // The above copyright notice and this permission notice shall be included in all
+      // copies or substantial portions of the Software.
+      // 
+      // THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+      // IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+      // FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+      // AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+      // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+      // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+      // SOFTWARE.
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Exécutable Windows 32 bits
+     identifier : 0x41d4b65f00d9a202
+     code_elements :
+      type_code : 159
+      p_codes :
+       -
+         type : 196628
+       -
+         type : 196629
+       -
+         type : 196631
+       -
+         type : 196630
+       -
+         type : 196632
+ code_parameters :
+  internal_properties : BgAAAAYAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+rad :
+ internal_properties : BgAAAAYAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : BgAAAAYAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BgAAAAYAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
