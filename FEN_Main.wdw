@@ -636,6 +636,12 @@ window :
      type_code : 4
      p_codes :
       -
+        code : |1-
+         
+         
+         wl.trace("toto")
+        type : 14
+      -
         code : |1+
          
          wl.trace("Marc test n°1 conflicts")
