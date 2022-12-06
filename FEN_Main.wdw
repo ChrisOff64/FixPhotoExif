@@ -641,6 +641,7 @@ window :
          
          wl.trace("toto")
          wl.trace("toto2")
+         wl.trace("toto3")
         type : 14
       -
         code : |1+
