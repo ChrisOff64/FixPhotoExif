@@ -636,9 +636,10 @@ window :
      type_code : 4
      p_codes :
       -
-        code : |1-
+        code : |1+
          
-         wl.trace("Marc test conflicts")
+         wl.trace("Marc test n°1 conflicts")
+         wl.trace("Marc test n°2 conflicts")
         type : 18
       -
         type : 161
