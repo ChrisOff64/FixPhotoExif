@@ -702,8 +702,10 @@ window :
          
          i est un entier
          
-         pour i = 1 à 10 
+         pour i = 1 à 15 
+         	//Ma modif
          	wl.trace(i)
+         	trace("Ma modif CCAZ")
          FIN
         type : 18
       -
