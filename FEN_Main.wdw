@@ -704,6 +704,10 @@ window :
          
          pour i = 1 à 10 
          	wl.trace(i)
+         	
+         	si i = 1 ALORS
+         		wl.trace("i  vaut 1")
+         	FIN
          FIN
         type : 18
       -
