@@ -640,6 +640,7 @@ window :
          
          wl.trace("CCAZ")
          wl.trace("CCAZ2")
+         wl.trace("CCAZ3")
          
          wl.trace("toto")
          wl.trace("toto2")
