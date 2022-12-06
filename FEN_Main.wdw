@@ -638,6 +638,7 @@ window :
       -
         code : |1-
          
+         wl.trace("CCAZ")
          
          wl.trace("toto")
          wl.trace("toto2")
