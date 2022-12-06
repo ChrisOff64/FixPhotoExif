@@ -706,6 +706,10 @@ window :
          	//Ma modif
          	wl.trace(i)
          	trace("Ma modif CCAZ")
+         	
+         	si i = 1 ALORS
+         		wl.trace("i  vaut 1")
+         	FIN
          FIN
         type : 18
       -
