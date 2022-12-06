@@ -636,13 +636,15 @@ window :
      type_code : 4
      p_codes :
       -
-        code : |1-
+        code : |1+
          
          wl.trace("CCAZ")
          
          wl.trace("toto")
          wl.trace("toto2")
          wl.trace("toto3")
+         wl.trace("toto4")
+         
         type : 14
       -
         code : |1+
