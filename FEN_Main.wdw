@@ -137,6 +137,27 @@ window :
          -
            type : 278
            enabled : false
+     -
+       name : COL_CCAZ
+       identifier : 0x238f17d019a15607
+       internal_properties : BwAAAAcAAABCgUc1m1SUNKxcTKWdL2vioVgyphQI52D4HFzaDqdGDsTX/piF8TP7GRf351aq9pl8sCQbXX6IvseoSO0VrzLowVx4IIM97xvKTW9ARtU10+lbd1sfPBof7NzmYFT7QxvUZU+4UNMyTMonvY5/8fwcCV0DoVitWPBoiP6G+AjSpHQotMQVt4v3A/67CtJFwtzktg4hxeKrN2KhRHt9EYnnUhFsbD8u5Vq6VB3Qt8h8EBYwPEZzPIqvpJw=
+       type : 2
+       content :
+        internal_properties : BwAAAAcAAADoUHi6G60h23QzD77NDQQ8vsONJa8spMl9Gg+MeKdMEVR+8wxWCs4Vs3XZtaqQvF3f1vpjTncDT6K+Mgz6mYw9wBr6izvXFd90Tny8h0dVV4eNhuNeR8MYvgJnGpCCVSnuG91DzU9pTshRNiF5su/+r7e4AwDli+Htve9AoECvTcGCQIaAUOeUP78te63tSkabPW8X/yBaUOd/GmNyWd31SJSS7nYGLCwmIVD0H6b8/cIFuiXVxRZR1mA5MIZ7+rbx3W8GRihl0MATm/WoOrJNtrzXYE/e2iIFUTO+JTCQiqJweDvSJc+LuFFdUvNFu/yeTj7Xpdcdq0A8RxOawveA23DSwta+Cn20tweodHtv5JQJv24UlJv2/Fg70/Il9VCSBLaLLXNxbsaiO4uv46lYu7E+zUSawKWG8WB3YjCRaUXwTlM9M2uWONtnhimPoeVgYAx14JDYd600CV/g6mpZqjF+nHAgD7NkrM3kD/bwIti0W3x7tLCGkFtzB6tLBC39yM2549SSr/GLz4fxqopv/JJjIirUR7/BJKPmpfswNKsU2UjnNVAyHR/zEVRwwzyDUWL8RLX6n5S98vP2dS3iRXD1Ro6hlA7q782nnrcPd0N8TpLYKOLC5KKq1vSGjb+xfGCxzQEmehMbCxoz1PJXZPiyQujPYIuIMxDWy1fIqOjYO1l8qYyLfMLEM7QsQsBZ8Srf7PuzQbDtCsUO+TbG0/YiE5XJ/tPgjIJyrEklw6u9O+2DToc/OFXMkR57q9Z8icFTT/m2NgRT9n5EqWEyyyx1M3Xr8/8MhGDFKc1zl4FGhJ6/cPkrPHFgvPTEbnVHAdQSq30Lg5dQVhO8hVhN3J5e4qqd+nW3pqawZ1TIIR8ggfScvneHXPmDtL0vXwpJNiD3qFYIcFd8r5gOwNxP6lTuPTkokomGbRGDySv3LsC1sFVW1huo1ot0TaL96qNOSPifsmw79SjazNxjCayybiTpXqU45I6neVXI1ibEElhZXBWjw1bwTwQqbPjYyVzfE1S7H2gI8ffPKqY1JQEcXufgG78NWpsqYWLx7eJHEOhzbpFGEdx/eHbFf6rgtzHBEbZAv7H6gTmMmUrNelB2Rutafz0gdO6PF0p6BmatRQJLvAPfB5oEIxlw978/tNmEs7VYGz8Ntl2msRi/8jEkdYoudvmftgIlRWNcnQRpugZHi5sdXGkpEf9gjj0wyVHCZmYemMhvwjfWTgLh2vsrZwHK900TRfJe0jVrkevAxy58gwC8B1KCwxCwGitXhf8Ql7A9EC9YOstLPl4jJRLoqJ94CEYPAL+gB3ii5LraqOE/O1/bBPtUxqs/xT487sBYXqbYvBXxIdVhczszrYg0tRBCybi8Z/H4G8bzecE6XxfYBvHczHMoZr9xqLCdhDmHD2jYkWxpc/zb0sAyuD7L0xjkkQ==
+        type : 2
+       code_elements :
+        internal_properties : BwAAAAcAAAB0FSLg6D9dTM8uQILdZo4LuIUwb/MNrTaeOrjknSmhqgLipu+adNiyUYvezwHrOJX/W5Lhb2iv
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
     type : 9
     controls : []
     code_elements :
